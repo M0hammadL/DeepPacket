@@ -1,10 +1,12 @@
 Deep packet
 ==========
 
-all the codes for the paper "Deep Packet: A Novel Approach For Encrypted Traffic
+All the codes for  "Deep Packet: A Novel Approach For Encrypted Traffic
 Classification Using Deep Learning" will be uploaded here
-after publication (paper is under publication).
+after publication (paper is under review).
 
 
-you can read the paper here:
-https://arxiv.org/pdf/1709.02656.pdf
+<img align="center" src="./sketch/deep-packet-final.png?raw=true">
+
+
+you can read the paper [here](https://arxiv.org/abs/1709.02656):
