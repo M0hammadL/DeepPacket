@@ -9,4 +9,4 @@ after publication (paper is under review).
 <img align="center" src="./sketch/deep-packet-final.png?raw=true">
 
 
-you can read the paper [here](https://arxiv.org/abs/1709.02656):
+you can read the paper [here](https://arxiv.org/abs/1709.02656)
