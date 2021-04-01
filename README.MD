@@ -13,12 +13,12 @@ I am doing my PhD, I did not have time to rewrite the code, However there are so
 I list these repositories here and will keep updating it till I finally find time and release the official code:
 
 
- - **repo1** (`by Wong <https://github.com/munhouiani/Deep-Packet>`_): This repostory replicate the results in the paper and includes proprocessed data and code in PyTorch.
- - **repo2** (`by Ezzeldin Tahoun <https://github.com/PrivPkt/PrivPkt>`_): This repostory has an implemenation of the model in Tensorflow and some scripts for data preprocessing.
+ - **repo1** ([by Wong](https://github.com/munhouiani/Deep-Packet)): This repostory replicates the results in the paper and includes proprocessed data and code in PyTorch.
+ - **repo2** ([by Ezzeldin Tahoun](https://github.com/PrivPkt/PrivPkt)): This repostory has an implemenation of the model in Tensorflow and some scripts for data preprocessing.
 
- - **repo3** (`by raptor900 <https://github.com/raptor900/DeepPacket`_): This repostory has an implemenation of the model in pytorch but no training script or data set is provided.
+ - **repo3** ([by raptor900](https://github.com/raptor900/DeepPacket`)): This repostory has an implemenation of the model in pytorch but no training script or data set are provided.
 
- - **repo4** (`by KimythAnly <https://github.com/KimythAnly/deeppacket`_): This repostory has an implemenation of the model in Tensorflow/Keras and some scripts for data 
+ - **repo4** ([by KimythAnly](https://github.com/KimythAnly/deeppacket)): This repostory has an implemenation of the model in Tensorflow/Keras and some scripts for data.
 
 Reference
 -------------------------------
